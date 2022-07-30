@@ -1,0 +1,25 @@
+  body {
+    background-image: linear-gradient(to right, white,#66ccff,lightblue,#66ccff,white);
+  }
+  h1 {
+    color: #3399ff
+  }
+  h3 {
+    color: #3399ff
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width: 50%;
+  }
+
+/********************class selectors*****************/
+
+.profile {
+  background-color:
+
+}
+
+/******************ID selectors********************/
