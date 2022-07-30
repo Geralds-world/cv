@@ -63,10 +63,6 @@
         <td>⭐⭐⭐</td>
       </tr>
       <tr>
-        <td>Gaming</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
         <td>Sales</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
