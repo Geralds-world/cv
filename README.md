@@ -58,25 +58,25 @@
         <td>Html</td>
         <td>⭐⭐⭐⭐</td>
       </tr>
-      <tr>
-      <td>CSS<td/>
-      <td>⭐⭐⭐<td/>
-      <tr/>
        <tr>
-      <td>bootstrap<td/>
-      <td>⭐<td/>
-      <tr/>
+        <td>CSS</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+       <tr>
+        <td>BootStrap</td>
+        <td>⭐</td>
+      </tr>
       <tr>
         <td>Architecture</td>
         <td>⭐⭐⭐</td>
       </tr>
       <tr>
         <td>Sales</td>
-        <td>⭐⭐</td>
+        <td>⭐</td>
       </tr>
       <tr>
         <td>Business experience </td>
-        <td>⭐⭐⭐</td>
+        <td>⭐⭐⭐⭐</td>
       </tr>
     </table>
 <hr>
