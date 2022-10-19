@@ -56,15 +56,23 @@
     <table cellspacing="10">
       <tr>
         <td>Html</td>
-        <td>⭐⭐</td>
+        <td>⭐⭐⭐⭐</td>
       </tr>
+      <tr>
+      <td>CSS<td/>
+      <td>⭐⭐⭐<td/>
+      <tr/>
+       <tr>
+      <td>bootstrap<td/>
+      <td>⭐<td/>
+      <tr/>
       <tr>
         <td>Architecture</td>
         <td>⭐⭐⭐</td>
       </tr>
       <tr>
         <td>Sales</td>
-        <td>⭐⭐⭐⭐</td>
+        <td>⭐⭐</td>
       </tr>
       <tr>
         <td>Business experience </td>
@@ -72,7 +80,7 @@
       </tr>
     </table>
 <hr>
-<a href="hobbies.html">My Hobbies</a>
+<a href="hobbies.html">My Hobbies</a><br>
 <a href="contact details.html">Contact Details</a>
 </body>
 
