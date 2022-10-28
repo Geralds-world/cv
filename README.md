@@ -67,6 +67,10 @@
         <td>⭐</td>
       </tr>
       <tr>
+        <td>Javascript</td>
+        <td>⭐</td>
+      </tr>
+      <tr>
         <td>Architecture</td>
         <td>⭐⭐⭐</td>
       </tr>
